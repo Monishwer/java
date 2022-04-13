@@ -11,7 +11,7 @@ System.out.println("value of int variable :" +b);
 
 //upcasting or widening
 int c = 98; // int variable
-float d = c; // converted to double variable
+float d = c; // converted to float variable
 //float d = (float) c; 
 
 System.out.println("value of double variable :" +d);
