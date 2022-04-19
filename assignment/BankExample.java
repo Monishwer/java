@@ -35,7 +35,7 @@ int acno;
 
 int i, choice, amount, balance = 50000;
 
-for( i = 1; i< 3; i++){
+for( i = 1; i< 11; i++){
 System.out.println("Enter your choice : \n 1:Deposit \n 2:Withdraw");
 choice = s.nextInt();
 System.out.println("Enter the amount : ");
